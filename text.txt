@@ -1,0 +1,5 @@
+Install dependency: composer require verifalia/sdk
+VerifaliaRestClientOptions::USERNAME => 'hirokikato1@gmail.com',
+    VerifaliaRestClientOptions::PASSWORD => '.3S6*MBktdg5C#q'
+
+    "erpelding@excite.com";

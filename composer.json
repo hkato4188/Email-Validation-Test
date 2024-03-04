@@ -1,0 +1,8 @@
+{
+    "require": {
+        
+        "egulias/email-validator": "^4.0",
+        "verifalia/sdk": "^3.0",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
